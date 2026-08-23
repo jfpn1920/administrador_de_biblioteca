@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>administrador_de_biblioteca</RootNamespace>
+    <TargetFramework>net10.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
